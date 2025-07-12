@@ -1,0 +1,21 @@
+userName: adityaraghuwansh_VgX2xd
+accessKey: qPpDDTyazfWABX8Yn7u5
+platforms:
+  - browserName: Chrome
+    os: Windows
+    osVersion: 11
+    browserVersion: latest
+  - browserName: Edge
+    os: Windows
+    osVersion: 11
+    browserVersion: latest
+  - browserName: Firefox
+    os: Windows
+    osVersion: 11
+    browserVersion: latest
+buildIdentifier: ${BUILD_NUMBER}
+consoleLogs: info
+parallelsPerPlatform: 5
+projectName: Spanish_BrowserStack
+seleniumVersion: 4.33.0
+buildName: SpanishSimple
